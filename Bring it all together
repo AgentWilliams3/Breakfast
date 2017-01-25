@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bring it all together</title>
+</head>
+<body>
+<table>
+    <tr>
+        <td><br><a href="#Hip-Hop">Hip-Hop</a></br /></td>
+        <td><br><a href="#R&B">R&B</a></br /></td>
+        <td><br><a href="#Classical">Classical</a><br /></td>
+    </tr>
+</table>
+<h1 id="Hip-Hop">Hip-Hop</h1>
+<table>
+    <tr>
+        <td><br><a href="#R&B">R&B</a></br></td>
+        <td><br><a href="#Classical">Classical</a></br></td>
+    </tr>
+</table>
+<ol>
+    <li><img src="https://upload.wikimedia.org/wikipedia/en/0/08/Album_Cover_of_Travis_Scott's_Day_Before_Rodeo.jpg"
+             alt="Travis Scott"
+             Style="width:500px;hieght:500px;"></li>
+    <li><img src="http://cdn1.thecomeback.com/wp-content/uploads/2016/02/life-of-pablo.jpg"
+             alt="Kanye West"
+             Style="width:500px;hieght:500px;"></li>
+    <li><img src="http://hiphop-n-more.com/wp-content/uploads/2016/05/chance-3.jpg"
+             alt="Chance the Rapper"
+             Style="width:500px;hieght:500px;"></li>
+</ol>
+<h1 id="R&B">R&B</h1>
+<ol>
+    <li><img src="http://www.hitthefloor.com/wp-content/uploads/2015/07/the-internet-ego-death1-690x690.jpeg"
+         alt="the internet"
+         Style="width:500px;hieght:500px;"></li>
+    <li><img src="http://netstorage.metrolyrics.com/albums/1376539693jt2020-pt2.jpg"
+             alt="Justin Timberlake"
+             Style="width:500px;hieght:500px;"></li>
+    <li><img src="http://cdn.pitchfork.com/albums/21986/689223b5.jpg"
+             alt="Miguel"
+             Style="width:500px;hieght:500px;"></li>
+</ol>
+<h1 id="Classical">Classical</h1>
+<ol>
+    <li><img src="https://musicophilesblog.files.wordpress.com/2015/10/811xauno7bl-_sl1400_.jpg"
+             alt="Mozart"
+             Style="width:500px;hieght:500px;"></li>
+    <li><img src="http://a4.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTI2NTgyMzIxOTcyMjU5NDU5.jpg"
+             alt="Ludwig van Beethoven"
+             Style="width:500px;hieght:500px;"></li>
+    <li><img src="http://mattotto.org/wp-content/uploads/2014/07/bach_1.jpg"
+             alt="Johann Sebastian Bach"
+             Style="width:500px;hieght:500px;"></li>
+</ol>
+
+
+</body>
+</html>
