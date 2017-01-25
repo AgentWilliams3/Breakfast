@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h1>French Toast</h1>
+<h2> By Lawrence Williams III </h2>
+<p> I made French Toast on Saturday. I like making french toast at home because its really good the way I make it and cheap. being on a student budget...its very important that I keep my expenses low. </p>
+<h3>Ingredients</h3>
+<ul>
+    <li>3 eggs</li>  <li>1/8-1/4 cup of sugar</li>  <li>1/2 cup of milk</li>  <li>6 slices of bread preferably thick</li>  <li>1/2 tablespoon of vanilla</li>  <li>cinnamon</li>
+</ul>
+<h3>What to do</h3>
+<ol>
+    <li>Combine the milk and eggs</li>
+    <li>Add sugar and vanilla</li>
+    <li>soak the slices</li>
+    <li>cook the toast</li>
+    <li>Enjoy!</li>
+</ol>
+
+</body>
+</html>
